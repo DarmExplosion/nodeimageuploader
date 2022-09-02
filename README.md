@@ -18,7 +18,7 @@ npm i chokidar
 ### Running the project
 Running the Node.js handler:
 ```bash
-cd api
+cd apidfgh
 node handler.js
 ```
 
